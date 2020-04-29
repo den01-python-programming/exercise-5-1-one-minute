@@ -1,3 +1,5 @@
+from timer import Timer
+
 def main():
     #write your code below this line
 
